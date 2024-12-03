@@ -12,7 +12,7 @@ It can monitor the changes in the website, and alarm in a way of tg bot.
 
 <br>
 
-## 代码中为检查BTC/USDT价格。
+## 代码中为通过谷歌搜索检查BTC/USDT价格。
 <p align="center">
   <img src="https://github.com/zhuolhc/tg-alarmer/blob/main/%E6%88%AA%E5%B1%8F2024-12-03%2011.07.50.png?raw=true" width="250">
 </p>
