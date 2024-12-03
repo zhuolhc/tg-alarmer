@@ -1,6 +1,6 @@
 const TELEGRAM_API_URL = 'https://api.telegram.org/bot<你的tgbot key>/sendMessage';
 const CHAT_ID = '';  // 替换为你的聊天ID
-const productUrl = 'https://www.binance.com/en/trade/BTC_USDT?type=spot';  // 目标页面 URL
+const productUrl = '';  // 目标页面 URL
 
 let lastStock = null; 
 
@@ -9,7 +9,8 @@ async function getStock() {
   const response = await fetch(productUrl);
   const text = await response.text();
 
-  const regex = /<div class="showPrice" style="color: rgb(46, 189, 133);">(\d+)</div>/;
+  //const regex = /<div class="showPrice" style="color: rgb(46, 189, 133);">(\d+)</div>/;
+  //自行修改
   const match = regex.exec(text);
 
   if (match) {
