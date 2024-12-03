@@ -1,4 +1,4 @@
-# tg-alarmer
+# tg-alarmer for website
 它能无服务器监控网页中存在的变化，并且以telegram bot 的形式提醒
 <br><br>
 It can monitor the changes in the website, and alarm in a way of tg bot.
