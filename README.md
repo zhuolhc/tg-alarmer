@@ -10,15 +10,17 @@ It can monitor the changes in the website, and alarm in a way of tg bot.
 </p>
 <br>
 可以用来监控一些库存之类的东西。以便及时抢购，应用场景很多。
-<br>
+<br><br>
 
 ## 代码中为通过谷歌搜索检查BTC/USDT价格。
 <p align="center">
   <img src="https://github.com/zhuolhc/tg-alarmer/blob/main/%E6%88%AA%E5%B1%8F2024-12-03%2011.07.50.png?raw=true" width="250">
 </p>
-
+<br><br>
 找 @BotFather 和 @userinfobot 要机器人和你的相关内容，一个字母都不能错，别找错了，模仿的一堆。
 <br><br>
-别滥用
+别滥用!
+<br><br>
+
 ## LICENSE
 Apache-2.0
