@@ -4,6 +4,11 @@
 It can monitor the changes in the website, and alarm in a way of tg bot.
 <br><br>
 在cf上部署，记得绑定Cron触发事件。
+```
+if (data has changed in */1 * * * *){
+  print
+}
+```
 <br>
 <p align="center">
   <img src="https://github.com/zhuolhc/tg-alarmer/blob/main/%E6%88%AA%E5%B1%8F2024-12-03%2011.07.16.png?raw=true" width="500">
