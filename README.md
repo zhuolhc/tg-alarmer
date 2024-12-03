@@ -16,3 +16,5 @@ It can monitor the changes in the website, and alarm in a way of tg bot.
 <p align="center">
   <img src="https://github.com/zhuolhc/tg-alarmer/blob/main/%E6%88%AA%E5%B1%8F2024-12-03%2011.07.50.png?raw=true" width="250">
 </p>
+
+找 @BotFather 和 @userinfobot 要机器人和你的相关内容，一个字母都不能错，别找错了，模仿的一堆。
