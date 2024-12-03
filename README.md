@@ -1,5 +1,6 @@
 # tg-alarmer
 它能监控网页中存在的变化，并且以telegram bot 的形式提醒
+<br>
 It can monitor the changes in the website, and alarm in a way of tg bot.
 <br>
 在cf上部署，记得绑定Cron触发事件。
@@ -11,7 +12,7 @@ It can monitor the changes in the website, and alarm in a way of tg bot.
 
 <br>
 
-代码中为检查BTC/USDT价格。
+## 代码中为检查BTC/USDT价格。
 <p align="center">
   <img src="https://github.com/zhuolhc/tg-alarmer/blob/main/%E6%88%AA%E5%B1%8F2024-12-03%2011.07.50.png?raw=true" width="250">
 </p>
