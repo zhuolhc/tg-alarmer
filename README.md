@@ -1,5 +1,5 @@
 # tg-alarmer
-它能监控网页中存在的变化，并且以telegram bot 的形式提醒
+它能无服务器监控网页中存在的变化，并且以telegram bot 的形式提醒
 <br>
 It can monitor the changes in the website, and alarm in a way of tg bot.
 <br>
@@ -18,3 +18,5 @@ It can monitor the changes in the website, and alarm in a way of tg bot.
 </p>
 
 找 @BotFather 和 @userinfobot 要机器人和你的相关内容，一个字母都不能错，别找错了，模仿的一堆。
+<br>
+别滥用
