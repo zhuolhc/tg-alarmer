@@ -21,4 +21,4 @@ It can monitor the changes in the website, and alarm in a way of tg bot.
 <br><br>
 别滥用
 ## LICENSE
-MIT
+Apache-2.0
