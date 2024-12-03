@@ -18,5 +18,7 @@ It can monitor the changes in the website, and alarm in a way of tg bot.
 </p>
 
 找 @BotFather 和 @userinfobot 要机器人和你的相关内容，一个字母都不能错，别找错了，模仿的一堆。
-<br>
+<br><br>
 别滥用
+## LICENSE
+MIT
