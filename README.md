@@ -8,6 +8,9 @@ It can monitor the changes in the website, and alarm in a way of tg bot.
 if (data has changed in */1 * * * *){
   print
 }
+else{
+
+}
 ```
 <br>
 <p align="center">
